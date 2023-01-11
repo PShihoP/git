@@ -52,6 +52,7 @@ public class CarMain {
 //		c3.showCarInfo();
 		
 		new Car();
+		System.out.println(new Car());
 	}
 
 }
